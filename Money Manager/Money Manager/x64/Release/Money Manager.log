@@ -1,0 +1,7 @@
+﻿  Money Manager.cpp
+C:\IT\Money Manager\Money Manager\Cards.h(141,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\IT\Money Manager\Money Manager\Cards.h(142,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\IT\Money Manager\Money Manager\Cards.h(169,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\IT\Money Manager\Money Manager\Statistics.h(271,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\IT\Money Manager\Money Manager\Statistics.h(272,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\IT\Money Manager\Money Manager\ChooseMenu.h(5,10): fatal  error C1083: Не удается открыть файл включение: nlohmann/json.hpp: No such file or directory,
